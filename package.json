@@ -55,7 +55,7 @@
     "@vee-validate/zod": "^4.14.6",
     "@vercel/kv": "^1.0.1",
     "@vitejs/plugin-vue": "^5.1.4",
-    "@vue-email/components": "^0.0.19",
+    "@vue-email/components": "^0.0.21",
     "@vue-email/render": "^0.0.9",
     "ai": "^3.4.27",
     "class-variance-authority": "^0.7.0",
