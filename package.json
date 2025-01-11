@@ -57,7 +57,7 @@
     "@vitejs/plugin-vue": "^5.1.4",
     "@vue-email/components": "^0.0.19",
     "@vue-email/render": "^0.0.9",
-    "ai": "^3.4.27",
+    "ai": "^4.0.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "drizzle-orm": "^0.33.0",
