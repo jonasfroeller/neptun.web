@@ -83,7 +83,7 @@
     "rehype-sanitize": "^6.0.0",
     "remark-flexible-code-titles": "^1.2.0",
     "remark-gfm": "^4.0.0",
-    "shadcn-nuxt": "^0.10.4",
+    "shadcn-nuxt": "^0.11.0",
     "strip-markdown": "^6.0.0",
     "tailwind-merge": "^2.5.4",
     "vaul-vue": "^0.2.0",
