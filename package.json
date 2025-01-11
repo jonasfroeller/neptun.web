@@ -42,7 +42,7 @@
     "db:diagram": "powershell \"Start-Process cmd -Verb RunAs -ArgumentList '/k cd /d \\\"%CD%\\\" && helpers\\generate-diagram-native.bat'\""
   },
   "dependencies": {
-    "@ai-sdk/vue": "^0.0.58",
+    "@ai-sdk/vue": "^0.0.59",
     "@formkit/auto-animate": "^0.8.2",
     "@huggingface/inference": "^2.8.1",
     "@neondatabase/serverless": "^0.10.1",
