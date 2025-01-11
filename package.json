@@ -53,7 +53,7 @@
     "@radix-icons/vue": "^1.0.0",
     "@tanstack/vue-table": "^8.20.5",
     "@vee-validate/zod": "^4.14.6",
-    "@vercel/kv": "^1.0.1",
+    "@vercel/kv": "^3.0.0",
     "@vitejs/plugin-vue": "^5.1.4",
     "@vue-email/components": "^0.0.19",
     "@vue-email/render": "^0.0.9",
