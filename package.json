@@ -60,7 +60,7 @@
     "ai": "^3.4.27",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "drizzle-orm": "^0.33.0",
+    "drizzle-orm": "^0.38.0",
     "drizzle-zod": "^0.5.1",
     "es-toolkit": "^1.26.1",
     "file-saver": "^2.0.5",
@@ -126,7 +126,7 @@
   "pnpm": {
     "overrides": {
       "drizzle-kit": "0.24.2",
-      "drizzle-orm": "0.33.0"
+      "drizzle-orm": "0.38.3"
     }
   }
 }
